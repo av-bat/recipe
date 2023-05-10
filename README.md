@@ -1,2 +1,2 @@
-# recipe
-Carpentries Example
+Ingredients:
+- 2 avocados
